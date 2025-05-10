@@ -66,7 +66,7 @@ sniffer:
       ports: [443, 8443, 2053, 2083, 2087, 2096]
 
 proxies:
-  - name: "🇮🇷 Hiddify_nexttt - IPv4"
+  - name: "🇮🇷 @Hiddify_Nexttt  - IPv4"
     type: wireguard
     ip: 172.16.0.2/32
     ipv6: 2001:db8:1::1
@@ -90,7 +90,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇩🇪 Hiddify_nexttt - IPv4"
+  - name: "🇩🇪 @Hiddify_Nexttt  - IPv4"
     type: wireguard
     ip: 172.16.0.2/32
     ipv6: 2001:db8:1::1
@@ -102,9 +102,9 @@ proxies:
     reserved: "AAAA"
     udp: true
     mtu: 1280
-    dialer-proxy: "🇮🇷 Hiddify_nexttt - IPv4"
+    dialer-proxy: "🇮🇷 @Hiddify_Nexttt  - IPv4"
 
-  - name: "🇮🇷 Hiddify_nexttt - IPv6"
+  - name: "🇮🇷 @Hiddify_Nexttt  - IPv6"
     type: wireguard
     ip: 172.16.0.2/32
     ipv6: 2001:db8:1::1
@@ -128,7 +128,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇸🇪 Hiddify_nexttt - IPv6"
+  - name: "🇸🇪 @Hiddify_Nexttt  - IPv6"
     type: wireguard
     ip: 172.16.0.2/32
     ipv6: 2001:db8:1::1
@@ -140,9 +140,9 @@ proxies:
     reserved: "AAAA"
     udp: true
     mtu: 1280
-    dialer-proxy: "🇮🇷 Hiddify_nexttt - IPv6"    
+    dialer-proxy: "🇮🇷 @Hiddify_Nexttt  - IPv6"    
 
-  - name: "🇦🇺 Hiddify_nexttt - IPv4-1"
+  - name: "🇦🇺 @Hiddify_Nexttt  - IPv4-1"
     type: wireguard
     ip: 100.80.234.177/32
     ipv6: "2001:db8:1::1"
@@ -1707,10 +1707,10 @@ proxy-groups:
     type: select
     proxies:
       - "🚀 انتخاب خودکار (بهترین)"
-      - "🇮🇷 hamedp71 - IPv4"
-      - "🇩🇪 hamedp71 - IPv4"
-      - "🇮🇷 hamedp71 - IPv6"
-      - "🇸🇪 hamedp71 - IPv6"      
+      - "🇮🇷 @Hiddify_Nexttt    - IPv4"
+      - "🇩🇪 @Hiddify_Nexttt    - IPv4"
+      - "🇮🇷 @Hiddify_Nexttt    - IPv6"
+      - "🇸🇪 @Hiddify_Nexttt    - IPv6"      
       - "🇦🇺 Australia - IPv4-1"
       - "🇦🇺 Australia - IPv4-2"
       - "🇧🇦 Bosnia and Herzegovina - IPv4"
@@ -1778,10 +1778,10 @@ proxy-groups:
     interval: 600
     tolerance: 100
     proxies:
-      - "🇮🇷 hamedp71 - IPv4"
-      - "🇩🇪 hamedp71 - IPv4"
-      - "🇮🇷 hamedp71 - IPv6"
-      - "🇸🇪 hamedp71 - IPv6"      
+      - "🇮🇷 @Hiddify_Nexttt    - IPv4"
+      - "🇩🇪 @Hiddify_Nexttt    - IPv4"
+      - "🇮🇷 @Hiddify_Nexttt    - IPv6"
+      - "🇸🇪 @Hiddify_Nexttt    - IPv6"      
       - "🇦🇺 Australia - IPv4-1"
       - "🇦🇺 Australia - IPv4-2"
       - "🇧🇦 Bosnia and Herzegovina - IPv4"
